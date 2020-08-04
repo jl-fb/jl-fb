@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+
+# Joao Borghezan
+
+## Olá pessoas 👋
+ Tentando ser um DEV :computer:
+
+ :rocket:  &nbsp; Atualmento trabalhando na **clic.digital** :office:
+ <br/> :star2: &nbsp; Buscando aprimorar conhecimentos na área da programação WEB Fullstack 
+ <br/> :purple_heart: &nbsp; Ansioso para poder colaborar com projetos em Fullstack
+ <br/> :computer: &nbsp; Stack que tive maior contato: Angular, Vue, React,Ionic, Typescript, Golang
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes, seriados, estudar, praia, trilha... :earth_americas:
+ 
