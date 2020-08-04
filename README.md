@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 
 # Joao Borghezan
 
@@ -27,4 +25,6 @@ Here are some ideas to get you started:
  <br/> :purple_heart: &nbsp; Ansioso para poder colaborar com projetos em Fullstack
  <br/> :computer: &nbsp; Stack que tive maior contato: Angular, Vue, React,Ionic, Typescript, Golang
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, esportes, seriados, estudar, praia, trilha... :earth_americas:
- 
+ <!-- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com) -->
